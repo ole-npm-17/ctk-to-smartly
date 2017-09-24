@@ -1,0 +1,22 @@
+{
+  "name": "ctk-to-smartly",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ole-npm-17@github.com/ole-npm-17/ctk-to-smartly.git"
+  },
+  "author": "Dalia <ole.npm.17@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ole-npm-17/ctk-to-smartly/issues"
+  },
+  "homepage": "https://github.com/ole-npm-17/ctk-to-smartly#readme",
+  "dependencies": {
+    "request": "^2.82.0"
+  }
+}
