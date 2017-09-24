@@ -1,6 +1,6 @@
 {
   "name": "ctk-to-smartly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ole-npm-17/ctk-to-smartly#readme",
   "dependencies": {
     "request": "^2.82.0"
-  }
+  },
+  "devDependencies": {}
 }
