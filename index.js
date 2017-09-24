@@ -1,4 +1,5 @@
 var request = require("request");
+const API_BASE_URL = 'https://abcde-ctk.kmt.orange.com/ctk/json/ctk';
 
 module.exports = {
   sendImageMedia: sendImageMedia
